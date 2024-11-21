@@ -1,4 +1,4 @@
-# Sobel edge detection filter using CUDA to enhance the performance of image processing tasks
+# EXP 3 Sobel edge detection filter using CUDA to enhance the performance of image processing tasks
 
 ### EX. NO: 03
 ### ENTER YOUR NAME: AMALJOSH MAADHAV J
